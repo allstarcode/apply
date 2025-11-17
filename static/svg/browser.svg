@@ -1,0 +1,21 @@
+<svg width="52" height="32" viewBox="0 0 52 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 33365">
+<g id="Group 33360">
+<g id="Group 33341">
+<g id="Group 33338">
+<g id="Rectangle 3551">
+<mask id="path-1-inside-1_101_265" fill="white">
+<path d="M6 6C6 2.68629 8.68629 0 12 0H40C43.3137 0 46 2.68629 46 6V28C46 29.6569 44.6569 31 43 31H8C6.89543 31 6 30.1046 6 29V6Z"/>
+</mask>
+<path d="M6 6C6 2.68629 8.68629 0 12 0H40C43.3137 0 46 2.68629 46 6V28C46 29.6569 44.6569 31 43 31H8C6.89543 31 6 30.1046 6 29V6Z" stroke="#F24236" stroke-width="6" mask="url(#path-1-inside-1_101_265)"/>
+</g>
+</g>
+</g>
+<path id="Vector 11" d="M2 29.9111L50 29.9111" stroke="#F24236" stroke-width="4" stroke-linecap="round"/>
+<line id="Line 61" x1="7" y1="13.5" x2="46" y2="13.5" stroke="#F24236" stroke-width="3"/>
+<ellipse id="Ellipse 1" cx="13.4451" cy="7.55647" rx="2.42424" ry="2.55647" fill="#0020C9"/>
+<ellipse id="Ellipse 2" cx="19.7181" cy="7.55647" rx="2.42424" ry="2.55647" fill="#0020C9"/>
+<ellipse id="Ellipse 3" cx="25.9905" cy="7.55647" rx="2.42424" ry="2.55647" fill="#0020C9"/>
+</g>
+</g>
+</svg>
